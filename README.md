@@ -1,1 +1,1 @@
-Trying to be a foot-like terminal with a suckless philosophy so that Wayland can be adopted on ancient hardware without frying the circuts. 
+Trying to be a foot-like terminal with a sort of suckless-like philosophy so that Wayland can be adopted on ancient hardware without frying the circuts. I also want this terminal emulator to pack an insane amount of features into a tiny codebase while still being extremely performant.
